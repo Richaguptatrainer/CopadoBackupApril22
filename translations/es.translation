@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Translations xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
     <customApplications>
-        <description xsi:nil="true"/>
         <label><!-- Nonprofit Success Pack --></label>
         <name>Nonprofit_CRM</name>
     </customApplications>
     <customApplications>
-        <description xsi:nil="true"/>
         <label><!-- Nonprofit Success Pack --></label>
         <name>Nonprofit_Success_Pack</name>
     </customApplications>
